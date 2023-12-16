@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\2_SayininKaresininToplamınıVerenUygulama\bin\Debug\2_SayininKaresininToplamınıVerenUygulama.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\2_SayininKaresininToplamınıVerenUygulama\bin\Debug\2_SayininKaresininToplamınıVerenUygulama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\2_SayininKaresininToplamınıVerenUygulama\bin\Debug\2_SayininKaresininToplamınıVerenUygulama.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\2_SayininKaresininToplamınıVerenUygulama\obj\Debug\2_SayininKaresininToplamınıVerenUygulama.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\2_SayininKaresininToplamınıVerenUygulama\obj\Debug\2_SayininKaresininToplamınıVerenUygulama.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\2_SayininKaresininToplamınıVerenUygulama\obj\Debug\2_SayininKaresininToplamınıVerenUygulama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\2_SayininKaresininToplamınıVerenUygulama\obj\Debug\2_SayininKaresininToplamınıVerenUygulama.pdb

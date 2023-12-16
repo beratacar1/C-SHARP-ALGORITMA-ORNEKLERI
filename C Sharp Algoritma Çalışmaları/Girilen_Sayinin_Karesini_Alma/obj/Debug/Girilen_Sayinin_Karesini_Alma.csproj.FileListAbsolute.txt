@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen_Sayinin_Karesini_Alma\bin\Debug\Girilen_Sayinin_Karesini_Alma.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen_Sayinin_Karesini_Alma\bin\Debug\Girilen_Sayinin_Karesini_Alma.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen_Sayinin_Karesini_Alma\bin\Debug\Girilen_Sayinin_Karesini_Alma.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen_Sayinin_Karesini_Alma\obj\Debug\Girilen_Sayinin_Karesini_Alma.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen_Sayinin_Karesini_Alma\obj\Debug\Girilen_Sayinin_Karesini_Alma.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen_Sayinin_Karesini_Alma\obj\Debug\Girilen_Sayinin_Karesini_Alma.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen_Sayinin_Karesini_Alma\obj\Debug\Girilen_Sayinin_Karesini_Alma.pdb

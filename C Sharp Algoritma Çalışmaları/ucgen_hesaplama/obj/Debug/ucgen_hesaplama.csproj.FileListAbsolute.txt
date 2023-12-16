@@ -1,0 +1,14 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\ucgen_hesaplama\bin\Debug\ucgen_hesaplama.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\ucgen_hesaplama\bin\Debug\ucgen_hesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\ucgen_hesaplama\bin\Debug\ucgen_hesaplama.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\ucgen_hesaplama\obj\Debug\ucgen_hesaplama.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\ucgen_hesaplama\obj\Debug\ucgen_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\ucgen_hesaplama\obj\Debug\ucgen_hesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\ucgen_hesaplama\obj\Debug\ucgen_hesaplama.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\ucgen_hesaplama\bin\Debug\ucgen_hesaplama.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\ucgen_hesaplama\bin\Debug\ucgen_hesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\ucgen_hesaplama\bin\Debug\ucgen_hesaplama.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\ucgen_hesaplama\obj\Debug\ucgen_hesaplama.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\ucgen_hesaplama\obj\Debug\ucgen_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\ucgen_hesaplama\obj\Debug\ucgen_hesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\ucgen_hesaplama\obj\Debug\ucgen_hesaplama.pdb

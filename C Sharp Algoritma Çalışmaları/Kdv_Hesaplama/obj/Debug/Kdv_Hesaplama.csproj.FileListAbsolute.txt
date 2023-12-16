@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Kdv_Hesaplama\bin\Debug\Kdv_Hesaplama.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Kdv_Hesaplama\bin\Debug\Kdv_Hesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Kdv_Hesaplama\bin\Debug\Kdv_Hesaplama.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Kdv_Hesaplama\obj\Debug\Kdv_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Kdv_Hesaplama\obj\Debug\Kdv_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Kdv_Hesaplama\obj\Debug\Kdv_Hesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Kdv_Hesaplama\obj\Debug\Kdv_Hesaplama.pdb

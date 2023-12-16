@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullaniciGirisUygulamasi\bin\Debug\KullaniciGirisUygulamasi.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullaniciGirisUygulamasi\bin\Debug\KullaniciGirisUygulamasi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullaniciGirisUygulamasi\bin\Debug\KullaniciGirisUygulamasi.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.pdb

@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Suyun_Sıcaklıgına_Gore_Durumu\bin\Debug\Suyun_Sıcaklıgına_Gore_Durumu.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Suyun_Sıcaklıgına_Gore_Durumu\bin\Debug\Suyun_Sıcaklıgına_Gore_Durumu.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Suyun_Sıcaklıgına_Gore_Durumu\bin\Debug\Suyun_Sıcaklıgına_Gore_Durumu.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Suyun_Sıcaklıgına_Gore_Durumu\obj\Debug\Suyun_Sıcaklıgına_Gore_Durumu.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Suyun_Sıcaklıgına_Gore_Durumu\obj\Debug\Suyun_Sıcaklıgına_Gore_Durumu.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Suyun_Sıcaklıgına_Gore_Durumu\obj\Debug\Suyun_Sıcaklıgına_Gore_Durumu.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Suyun_Sıcaklıgına_Gore_Durumu\obj\Debug\Suyun_Sıcaklıgına_Gore_Durumu.pdb

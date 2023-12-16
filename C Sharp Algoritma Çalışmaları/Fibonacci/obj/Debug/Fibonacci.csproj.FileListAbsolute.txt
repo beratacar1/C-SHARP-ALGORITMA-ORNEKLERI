@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Fibonacci\obj\Debug\Fibonacci.pdb

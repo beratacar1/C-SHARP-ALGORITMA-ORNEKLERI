@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\ALGORİTMA 2\For_Dongusu_İle_Toplama_İslemi\bin\Debug\For_Dongusu_İle_Toplama_İslemi.exe.config
+C:\Users\BERAT\Desktop\ALGORİTMA 2\For_Dongusu_İle_Toplama_İslemi\bin\Debug\For_Dongusu_İle_Toplama_İslemi.exe
+C:\Users\BERAT\Desktop\ALGORİTMA 2\For_Dongusu_İle_Toplama_İslemi\bin\Debug\For_Dongusu_İle_Toplama_İslemi.pdb
+C:\Users\BERAT\Desktop\ALGORİTMA 2\For_Dongusu_İle_Toplama_İslemi\obj\Debug\For_Dongusu_İle_Toplama_İslemi.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\ALGORİTMA 2\For_Dongusu_İle_Toplama_İslemi\obj\Debug\For_Dongusu_İle_Toplama_İslemi.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\ALGORİTMA 2\For_Dongusu_İle_Toplama_İslemi\obj\Debug\For_Dongusu_İle_Toplama_İslemi.exe
+C:\Users\BERAT\Desktop\ALGORİTMA 2\For_Dongusu_İle_Toplama_İslemi\obj\Debug\For_Dongusu_İle_Toplama_İslemi.pdb

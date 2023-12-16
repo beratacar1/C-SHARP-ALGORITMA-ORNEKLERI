@@ -1,0 +1,14 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Baklava_Dilimi\obj\Debug\Baklava_Dilimi.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Baklava_Dilimi\obj\Debug\Baklava_Dilimi.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Baklava_Dilimi\bin\Debug\Baklava_Dilimi.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Baklava_Dilimi\bin\Debug\Baklava_Dilimi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Baklava_Dilimi\bin\Debug\Baklava_Dilimi.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Baklava_Dilimi\obj\Debug\Baklava_Dilimi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Baklava_Dilimi\obj\Debug\Baklava_Dilimi.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Baklava_Dilimi\bin\Debug\Baklava_Dilimi.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Baklava_Dilimi\bin\Debug\Baklava_Dilimi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Baklava_Dilimi\bin\Debug\Baklava_Dilimi.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Baklava_Dilimi\obj\Debug\Baklava_Dilimi.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Baklava_Dilimi\obj\Debug\Baklava_Dilimi.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Baklava_Dilimi\obj\Debug\Baklava_Dilimi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Baklava_Dilimi\obj\Debug\Baklava_Dilimi.pdb

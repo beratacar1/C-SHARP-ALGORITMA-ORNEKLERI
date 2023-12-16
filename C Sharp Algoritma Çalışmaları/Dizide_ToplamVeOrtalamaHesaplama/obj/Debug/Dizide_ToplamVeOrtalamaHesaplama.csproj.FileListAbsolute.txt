@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Dizide_ToplamVeOrtalamaHesaplama\bin\Debug\Dizide_ToplamVeOrtalamaHesaplama.exe.config
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Dizide_ToplamVeOrtalamaHesaplama\bin\Debug\Dizide_ToplamVeOrtalamaHesaplama.exe
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Dizide_ToplamVeOrtalamaHesaplama\bin\Debug\Dizide_ToplamVeOrtalamaHesaplama.pdb
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Dizide_ToplamVeOrtalamaHesaplama\obj\Debug\Dizide_ToplamVeOrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Dizide_ToplamVeOrtalamaHesaplama\obj\Debug\Dizide_ToplamVeOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Dizide_ToplamVeOrtalamaHesaplama\obj\Debug\Dizide_ToplamVeOrtalamaHesaplama.exe
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Dizide_ToplamVeOrtalamaHesaplama\obj\Debug\Dizide_ToplamVeOrtalamaHesaplama.pdb

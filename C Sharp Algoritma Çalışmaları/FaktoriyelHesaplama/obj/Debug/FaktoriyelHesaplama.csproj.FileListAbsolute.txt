@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.pdb

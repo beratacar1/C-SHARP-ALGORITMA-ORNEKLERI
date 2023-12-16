@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Carpim_Tablosu\bin\Debug\Carpim_Tablosu.exe.config
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Carpim_Tablosu\bin\Debug\Carpim_Tablosu.exe
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Carpim_Tablosu\bin\Debug\Carpim_Tablosu.pdb
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Carpim_Tablosu\obj\Debug\Carpim_Tablosu.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Carpim_Tablosu\obj\Debug\Carpim_Tablosu.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Carpim_Tablosu\obj\Debug\Carpim_Tablosu.exe
+C:\Users\BERAT\Desktop\ALGORİTMA 2\Carpim_Tablosu\obj\Debug\Carpim_Tablosu.pdb

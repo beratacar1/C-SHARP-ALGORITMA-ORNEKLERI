@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Beden_Kitle_İndeksi\bin\Debug\Beden_Kitle_İndeksi.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Beden_Kitle_İndeksi\bin\Debug\Beden_Kitle_İndeksi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Beden_Kitle_İndeksi\bin\Debug\Beden_Kitle_İndeksi.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Beden_Kitle_İndeksi\obj\Debug\Beden_Kitle_İndeksi.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Beden_Kitle_İndeksi\obj\Debug\Beden_Kitle_İndeksi.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Beden_Kitle_İndeksi\obj\Debug\Beden_Kitle_İndeksi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Beden_Kitle_İndeksi\obj\Debug\Beden_Kitle_İndeksi.pdb

@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\1Den10aKadarSayilarinKupleriToplami\bin\Debug\1Den10aKadarSayilarinKupleriToplami.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\1Den10aKadarSayilarinKupleriToplami\bin\Debug\1Den10aKadarSayilarinKupleriToplami.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\1Den10aKadarSayilarinKupleriToplami\bin\Debug\1Den10aKadarSayilarinKupleriToplami.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\1Den10aKadarSayilarinKupleriToplami\obj\Debug\1Den10aKadarSayilarinKupleriToplami.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\1Den10aKadarSayilarinKupleriToplami\obj\Debug\1Den10aKadarSayilarinKupleriToplami.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\1Den10aKadarSayilarinKupleriToplami\obj\Debug\1Den10aKadarSayilarinKupleriToplami.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\1Den10aKadarSayilarinKupleriToplami\obj\Debug\1Den10aKadarSayilarinKupleriToplami.pdb

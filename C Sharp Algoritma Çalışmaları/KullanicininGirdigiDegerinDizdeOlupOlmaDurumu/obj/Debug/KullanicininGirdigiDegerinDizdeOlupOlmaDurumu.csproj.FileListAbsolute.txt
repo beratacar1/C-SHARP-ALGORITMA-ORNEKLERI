@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu\bin\Debug\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu\bin\Debug\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu\bin\Debug\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu\obj\Debug\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu\obj\Debug\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu\obj\Debug\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu\obj\Debug\KullanicininGirdigiDegerinDizdeOlupOlmaDurumu.pdb

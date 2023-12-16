@@ -1,0 +1,14 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\MİNİATM\bin\Debug\MİNİATM.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\MİNİATM\bin\Debug\MİNİATM.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\MİNİATM\bin\Debug\MİNİATM.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\MİNİATM\obj\Debug\MİNİATM.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\MİNİATM\obj\Debug\MİNİATM.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\MİNİATM\obj\Debug\MİNİATM.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\MİNİATM\obj\Debug\MİNİATM.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\MİNİATM\bin\Debug\MİNİATM.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\MİNİATM\bin\Debug\MİNİATM.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\MİNİATM\bin\Debug\MİNİATM.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\MİNİATM\obj\Debug\MİNİATM.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\MİNİATM\obj\Debug\MİNİATM.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\MİNİATM\obj\Debug\MİNİATM.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\MİNİATM\obj\Debug\MİNİATM.pdb

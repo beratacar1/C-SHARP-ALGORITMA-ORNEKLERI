@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Ortalama_Bulma\bin\Debug\Ortalama_Bulma.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Ortalama_Bulma\bin\Debug\Ortalama_Bulma.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Ortalama_Bulma\bin\Debug\Ortalama_Bulma.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Ortalama_Bulma\obj\Debug\Ortalama_Bulma.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Ortalama_Bulma\obj\Debug\Ortalama_Bulma.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Ortalama_Bulma\obj\Debug\Ortalama_Bulma.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Ortalama_Bulma\obj\Debug\Ortalama_Bulma.pdb

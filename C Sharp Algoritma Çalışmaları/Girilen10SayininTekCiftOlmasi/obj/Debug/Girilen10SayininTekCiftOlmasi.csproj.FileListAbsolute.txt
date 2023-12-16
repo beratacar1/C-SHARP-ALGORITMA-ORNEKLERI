@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen10SayininTekCiftOlmasi\bin\Debug\Girilen10SayininTekCiftOlmasi.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen10SayininTekCiftOlmasi\bin\Debug\Girilen10SayininTekCiftOlmasi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen10SayininTekCiftOlmasi\bin\Debug\Girilen10SayininTekCiftOlmasi.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen10SayininTekCiftOlmasi\obj\Debug\Girilen10SayininTekCiftOlmasi.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen10SayininTekCiftOlmasi\obj\Debug\Girilen10SayininTekCiftOlmasi.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen10SayininTekCiftOlmasi\obj\Debug\Girilen10SayininTekCiftOlmasi.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\Girilen10SayininTekCiftOlmasi\obj\Debug\Girilen10SayininTekCiftOlmasi.pdb

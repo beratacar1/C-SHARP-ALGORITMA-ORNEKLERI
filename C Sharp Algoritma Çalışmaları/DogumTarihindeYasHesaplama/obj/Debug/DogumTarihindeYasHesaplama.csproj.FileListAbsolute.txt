@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA\DogumTarihindeYasHesaplama\bin\Debug\DogumTarihindeYasHesaplama.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA\DogumTarihindeYasHesaplama\bin\Debug\DogumTarihindeYasHesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\DogumTarihindeYasHesaplama\bin\Debug\DogumTarihindeYasHesaplama.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA\DogumTarihindeYasHesaplama\obj\Debug\DogumTarihindeYasHesaplama.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\DogumTarihindeYasHesaplama\obj\Debug\DogumTarihindeYasHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA\DogumTarihindeYasHesaplama\obj\Debug\DogumTarihindeYasHesaplama.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA\DogumTarihindeYasHesaplama\obj\Debug\DogumTarihindeYasHesaplama.pdb
